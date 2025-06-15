@@ -1,4 +1,4 @@
-# TetherToken (USDT) - Hybrid Implementation
+# Tether USD (USDT) - Hybrid Implementation
 ## Technical Whitepaper v1.0
 
 **Authors:** Community Development Team  
