@@ -9,7 +9,7 @@ It is designed for hybrid integration, testing, and internal use in DeFi environ
 ⚠️ Not affiliated with Tether Ltd.
 
 ## 🔗 Contract Info
-- **Contract Address**: `TVHhYi...`
+- **Contract Address**: `TVvHYiz294Q1ZeTjRTWTczJJjVz9yS8FEP`
 - **Token Symbol**: `USDT`
 - **Token Name**: `Tether USD`
 - **Decimals**: `6`
